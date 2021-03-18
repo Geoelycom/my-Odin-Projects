@@ -81,5 +81,15 @@ img {
     position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+}
+
+#SIvCob a {
+    word-spacing: 6px;
+    text-decoration: none;
+    color: #1a0dab;
+}
+
+#SIvCob :hover {
+    text-decoration: underline;
 }
