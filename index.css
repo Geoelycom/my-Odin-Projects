@@ -67,6 +67,8 @@ img {
 .footer a {
     list-style-type: none;
     text-decoration: none;
+    color: #70757A;
+    font: 14px, arial Sans-serif;
 }
 
 .carbon {
