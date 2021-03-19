@@ -43,14 +43,21 @@ img {
     color: rgb(0, 0, 0, .87);
     height: 34px;
     margin-top: 50px;
-    margin-bottom: 50px;
+    /*margin-bottom: 50px;
     align-items: center;
-    margin-right: 25px;
+    margin-right: 25px; */
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: auto;
+    left: auto;
 }
+
+
+/* *
+i still dom't understand why this all css seems to be that difficult for me to do
+believfe me i have never really taking the time to learn it, now i think its something
+i need to perfect
+
+*/
 
 .button {
     position: fixed;
