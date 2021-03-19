@@ -38,9 +38,9 @@ img {
     margin-right: auto;
     margin-top: 5px;
     margin-bottom: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    width: 450px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 570px;
     margin-top: 20px;
     border-radius: 25px;
 }
@@ -55,9 +55,9 @@ img {
     background-color: whitesmoke;
     text-decoration: none;
     position: absolute;
-    bottom: 10px;
+    bottom: 30px;
     width: 100%;
-    padding-top: 15px;
+    padding-top: 30px;
     padding-right: 30px;
     padding-left: 30px;
     font-size: 15px;
