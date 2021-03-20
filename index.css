@@ -35,7 +35,8 @@ img {
     background-color: transparent;
     display: flex;
     width: 570px;
-    padding-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-radius: 50px;
     outline: none;
     flex: 100%;
@@ -43,12 +44,13 @@ img {
     color: rgb(0, 0, 0, .87);
     height: 34px;
     margin-top: 50px;
-    /*margin-bottom: 50px;
+    margin-bottom: 50px;
     align-items: center;
-    margin-right: 25px; */
-    position: absolute;
-    top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    /*top: auto;
     left: auto;
+    position: absolute; */
 }
 
 
