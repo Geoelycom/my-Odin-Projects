@@ -48,18 +48,7 @@ img {
     align-items: center;
     margin-right: auto;
     margin-left: auto;
-    /*top: auto;
-    left: auto;
-    position: absolute; */
 }
-
-
-/* *
-i still dom't understand why this all css seems to be that difficult for me to do
-believfe me i have never really taking the time to learn it, now i think its something
-i need to perfect
-
-*/
 
 .button {
     position: fixed;
