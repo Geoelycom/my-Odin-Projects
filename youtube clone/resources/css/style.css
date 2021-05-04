@@ -1,0 +1,59 @@
+  /***----- Reusable CSS ----- **/
+  
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  
+  html,
+  body {
+      background-color: #fff;
+      color: #555;
+      font-family: "lato", 'Arial', sans-serif;
+      font-size: 20px;
+      font-weight: 300;
+      text-rendering: optimizeLegibility;
+      overflow-x: hidden;
+  }
+  /** ----NAVIGATION BAR ------*/
+  
+  ul {
+      list-style-type: none;
+      margin-bottom: 1px;
+      padding: 1px;
+      overflow: hidden;
+      background-color: #202020;
+      color: white;
+  }
+  
+  li {
+      float: left;
+      padding: 10px
+  }
+  
+  img {
+      border-radius: 50px;
+      width: 2.3rem;
+      margin-right: 15px;
+  }
+  
+  .third-section {
+      float: right;
+  }
+  
+  .icon-small {
+      font-size: 30px;
+  }
+  
+  .second-section {
+      margin-left: 400px;
+  }
+  
+  input[type=text] {
+      width: 650px;
+      background-color: #121212;
+      color: rgba(255, 255, 255, 0.88);
+      padding-left: 0.6rem;
+      border-radius: black;
+  }
