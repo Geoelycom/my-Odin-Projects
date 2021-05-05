@@ -1,59 +1,72 @@
-  /***----- Reusable CSS ----- **/
-  
-  * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-  }
-  
-  html,
-  body {
-      background-color: #fff;
-      color: #555;
-      font-family: "lato", 'Arial', sans-serif;
-      font-size: 20px;
-      font-weight: 300;
-      text-rendering: optimizeLegibility;
-      overflow-x: hidden;
-  }
-  /** ----NAVIGATION BAR ------*/
-  
-  ul {
-      list-style-type: none;
-      margin-bottom: 1px;
-      padding: 1px;
-      overflow: hidden;
-      background-color: #202020;
-      color: white;
-  }
-  
-  li {
-      float: left;
-      padding: 10px
-  }
-  
-  img {
-      border-radius: 50px;
-      width: 2.3rem;
-      margin-right: 15px;
-  }
-  
-  .third-section {
-      float: right;
-  }
-  
-  .icon-small {
-      font-size: 30px;
-  }
-  
-  .second-section {
-      margin-left: 400px;
-  }
-  
-  input[type=text] {
-      width: 650px;
-      background-color: #121212;
-      color: rgba(255, 255, 255, 0.88);
-      padding-left: 0.6rem;
-      border-radius: black;
-  }
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ 
+ html,
+ body {
+     background-color: #fff;
+     font-family: "lato", 'Arial', sans-serif;
+     font-size: 20px;
+     font-weight: 300;
+     text-rendering: optimizeLegibility;
+     overflow-x: hidden;
+ }
+ 
+ ul {
+     list-style-type: none;
+     overflow: hidden;
+     background-color: #202020;
+     color: #f4f4f4;
+ }
+ 
+ li {
+     float: left;
+     padding: 8px;
+ }
+ 
+ img {
+     border-radius: 50px;
+     width: 2.3rem;
+     margin-right: 15px;
+ }
+ 
+ .third-section {
+     float: right;
+ }
+ 
+ .icon-small {
+     font-size: 28px;
+     color: white;
+     margin: 5px;
+ }
+ 
+ .icon-yt {
+     font-size: 25px;
+     color: #ff0000;
+     font-weight: bolder;
+ }
+ 
+ input {
+     width: 650px;
+     align-items: center;
+     margin-left: 250px;
+     margin-bottom: inherit;
+ }
+ 
+ #btn {
+     font-size: 10px;
+     width: 65px;
+     background-color: #4e4f4d;
+     border-right: 1px solid;
+     line-height: 10px;
+     cursor: pointer;
+ }
+ 
+ input[type=text] {
+     padding-top: 4px;
+     border-bottom: black;
+     color: rgba(255, 255, 255, 0.88);
+     background-color: black;
+ }
